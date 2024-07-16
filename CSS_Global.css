@@ -1,3 +1,4 @@
-body{
-  border: 1rem solid red !important;
+.kolbas{
+  border: 1rem solid red;
+  background-color: red;
 }
